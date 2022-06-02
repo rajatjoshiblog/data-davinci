@@ -5,6 +5,5 @@ Use this quick guide to be up and running with Flask
 3. Follow the below lines to setup the flask and run the server
 Linux/MacOS
 
-`$ export FLASK_APP=hello.py
-
- $ flask run`
+`$ export FLASK_APP=hello.py`
+`$ flask run`
