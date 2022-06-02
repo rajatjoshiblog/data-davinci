@@ -9,3 +9,5 @@ Use this quick guide to be up and running with Flask
     - Windows PowerShell\
     `$env:FLASK_APP = "hello.py"`\
     `flask run`
+4. Go to this url http://127.0.0.1:5000/
+If everything was setup correctly you should see a "Hello World!" in the page
