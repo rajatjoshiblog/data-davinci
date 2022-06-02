@@ -4,5 +4,7 @@ Use this quick guide to be up and running with Flask
 2. After you have created your venv from previous step. Create a project folder and copy [hello.py](hello.py) there
 3. Follow the below lines to setup the flask and run the server
 Linux/MacOS
+
 `$ export FLASK_APP=hello.py
+
  $ flask run`
