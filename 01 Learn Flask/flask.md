@@ -12,3 +12,6 @@ Use this quick guide to be up and running with Flask
 4. Go to this url http://127.0.0.1:5000/
 If everything was setup correctly you should see a "Hello World!" in the page
 5. Read the quickstart guide for more information - [Link](https://flask.palletsprojects.com/en/1.0.x/quickstart/#quickstart)
+6. Read a brief introduction to servers - [Link](https://nceas.github.io/oss-lessons/servers-networks-command-line/1-servers-net.html)
+
+## Creating POST APIs
